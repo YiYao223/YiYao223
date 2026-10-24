@@ -40,5 +40,3 @@ When I step away from terminals and compiler graphs, you'll usually find me:
 | **Fantasy & Adventure** | *Frieren: Beyond Journey's End (葬送のフリーレン)*, *Dungeon Meshi*, *Made in Abyss* |
 | **Psychological / Drama** | *Monster*, *Neon Genesis Evangelion*, *Ping Pong the Animation* |
 | **Slice of Life / Chill** | *Yuru Camp (Laid-Back Camp)*, *Bocchi the Rock!*, *Mushishi* |
-
----
