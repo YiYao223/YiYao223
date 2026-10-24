@@ -42,7 +42,3 @@ When I step away from terminals and compiler graphs, you'll usually find me:
 | **Slice of Life / Chill** | *Yuru Camp (Laid-Back Camp)*, *Bocchi the Rock!*, *Mushishi* |
 
 ---
-
-<p align="center">
-  <sub>"Simplicity is prerequisite for reliability." — Edsger W. Dijkstra</sub>
-</p>
